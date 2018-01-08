@@ -26,5 +26,5 @@
 
 * Frames 3000000 (+20h)
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fn9b8cxiiag30d50agawx.gif)
+![](https://ws1.sinaimg.cn/large/006tNc79ly1fn9bho09vug30d50agwy0.gif)
 
