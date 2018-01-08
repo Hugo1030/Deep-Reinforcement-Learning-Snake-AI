@@ -1,0 +1,6 @@
+model_checkpoint_path: "snake.ckpt-3420000"
+all_model_checkpoint_paths: "snake.ckpt-3300000"
+all_model_checkpoint_paths: "snake.ckpt-3330000"
+all_model_checkpoint_paths: "snake.ckpt-3360000"
+all_model_checkpoint_paths: "snake.ckpt-3390000"
+all_model_checkpoint_paths: "snake.ckpt-3420000"
