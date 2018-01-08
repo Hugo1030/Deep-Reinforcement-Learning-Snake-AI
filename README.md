@@ -6,7 +6,6 @@
 * TensorFlow 1.3.0
 * Pygame
 * OpenCV
-* GPU K520
 
 ## 如何运行
 
