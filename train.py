@@ -180,9 +180,9 @@ class agent:
             ts, qv = ag.addReplay(s_t1, a, r, done)
             if done == True:
                 sc, ep = g.retScore()
-                print(ts,",",qv,",",ep, ",", sc)
+                print("Epoch: {}  Q-Value: {:.3f}  Episode: {}  Score: {}".format(ts,qv,ep,sc))
             else:
-                print(ts,",",qv,",,")
+                print("Epoch: {}  Q-Value: {:.3f}".format(ts,qv))
 
 def main():
     run_agent = agent()
