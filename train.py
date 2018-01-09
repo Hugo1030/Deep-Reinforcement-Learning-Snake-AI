@@ -90,7 +90,7 @@ class DQN:
         
         self.saver = tf.train.Saver()
         self.session = tf.InteractiveSession()
-        self.session.run(tf.initialize_all_variables())
+        self.session.run(tf.global_variables_initializer())
         checkpoint = tf.train.get_checkpoint_state("saved")
         # For fresh start, comment below 2 lines
         if checkpoint and checkpoint.model_checkpoint_path:
