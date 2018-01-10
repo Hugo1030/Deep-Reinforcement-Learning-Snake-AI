@@ -52,6 +52,10 @@ end for
 
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1fn9bho09vug30d50agwy0.gif)
 
+* Frames 11000000 (+56h)
+
+![](https://ws2.sinaimg.cn/large/006tNc79ly1fnbgv5dkysg30d50ag4n2.gif)
+
 ## 参考资料
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
 * [Guest Post (Part II): Deep Reinforcement Learning with Neon](https://ai.intel.com/deep-reinforcement-learning-with-neon/)
