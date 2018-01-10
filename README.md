@@ -54,7 +54,7 @@ end for
 
 * Frames 11000000 (+56h)
 
-![](https://ws2.sinaimg.cn/large/006tNc79ly1fnbgv5dkysg30d50ag4n2.gif)
+![](https://ws4.sinaimg.cn/large/006tNc79ly1fnbjygwy1wg30d50ag4n2.gif)
 
 ## 参考资料
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
