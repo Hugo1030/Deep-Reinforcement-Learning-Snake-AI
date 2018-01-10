@@ -33,9 +33,9 @@ for episode = 1, M do
 end for
 ```
 
-## CNN 结构 （参考 FlappyBird）
+## CNN 结构
 
-![](https://ws3.sinaimg.cn/large/006tNc79ly1fn9gsk00p1j30tk0mfq6a.jpg)
+![](https://ws2.sinaimg.cn/large/006tNc79ly1fnb6yvfce4j30o707s402.jpg)
 
 ## 效果展示
 
